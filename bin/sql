@@ -1,0 +1,14 @@
+//Sql query 
+SELECT price FROM Products order by price desc Limit 2,3;
+select ename,eslary from employee order by salary desc 2 limit 1 //optum
+
+how to handle exception in reactJs
+Learn Angular
+Microservice Jpa and Hiberante in details
+Transaction and AOp in springboot
+
+Difference between Functional Programming and Object Oriented Programming
+
+opps
+Association and aggrigation
+coupling and cohsion
